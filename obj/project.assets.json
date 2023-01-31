@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\TicTacToe\\console\\console.csproj",
+      "projectUniqueName": "D:\\C#\\TicTacToe\\console.csproj",
       "projectName": "console",
-      "projectPath": "D:\\C#\\TicTacToe\\console\\console.csproj",
+      "projectPath": "D:\\C#\\TicTacToe\\console.csproj",
       "packagesPath": "C:\\Users\\utsav\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\TicTacToe\\console\\obj\\",
+      "outputPath": "D:\\C#\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\utsav\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
